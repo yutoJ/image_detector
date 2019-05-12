@@ -1,0 +1,10 @@
+*.jpg
+memo
+.DS_Store
+*.npy
+*.ipynb
+*.h5
+.ipynb_checkpoints
+*.pyc
+
+!.keep
